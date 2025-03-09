@@ -1,0 +1,1 @@
+for /l %%i in (0,1,12) do start cmd /k "program.exe && exit"

@@ -1,0 +1,1 @@
+g++ -O3 -march=native -flto -ffast-math -o program overText.cpp
